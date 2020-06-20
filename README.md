@@ -27,3 +27,11 @@ A Bickcraft é uma empresa fictícia de venda de bicicletas personalizadas criad
 - Semantica
 - Javascript
 - SEO
+
+<br>
+
+### :computer: Acesso 
+
+Você pode acessar esse [link](https://beatrizduarte.github.io/Bikcraft/index.html) para ver o resultado. 
+
+<br>
